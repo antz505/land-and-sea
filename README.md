@@ -1,2 +1,3 @@
 # land-and-sea
-Land and sea app
+Land and Sea app.
+This app/website was created by Dr. Travis Howlette, MD who is an individual who loves fishing and gardening. This app was created with the sole purpose of supporting his personal hobbies using technology and is subsequently provided to the community at large who wish to participate in similar hobbies. This app is not to be shared without permission from Dr. Travis Howlette and is not to be used for personal financial gain. There will eventually be a donating link for any individuals who decide to use this same web/app to support their own hobbies and are appreciative of the technology for their own personal use.
